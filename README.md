@@ -23,12 +23,6 @@ Game Development: Godot Engine
 ADX Chart Editor:
 A personal project developed with Godot and GDScript for creating and editing rhythm game charts.
 
-Train Scheduling System:
-A Python command-line application developed as an academic project for managing train routes and timetables.
-
-Dragon Village 3 Calculator:
-A personal Python project for calculating and analysing game-related data.
-
 Currently Interested In
 - Software Engineering
 - Software QA / Testing

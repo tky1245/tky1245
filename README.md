@@ -7,10 +7,15 @@ I enjoy building small applications and tools to solve problems that interest me
 **Technologies & Tools**
 
 Languages: Python, C#, Java, C++, GDScript, JavaScript
+
 Concepts: Object-Oriented Programming, Data Structures & Algorithms
+
 Tools: Git, GitHub
-Operating Systems: Windows, Linux
+
+Operating Systems: Windows
+
 Data & Automation: Microsoft Excel, Excel VBA
+
 Game Development: Godot Engine
 
 **Projects**
